@@ -24,9 +24,7 @@ El dataset `landing_experiment.csv` contiene información de usuarios expuestos 
 
 El análisis sigue una lógica clara y progresiva:
 
-🔍 Explor
-
-ar y validar los datos.
+🔍 Explorar y validar los datos.
 
 💰 Comparar el gasto promedio por usuario entre la página A y B.
 
